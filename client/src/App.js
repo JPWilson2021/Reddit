@@ -1,7 +1,9 @@
+import './style.css';
+
 function App() {
   return (
     <div>
-        <header></header>
+        <header className = "text-red-800">header</header>
     </div>
   );
 }
