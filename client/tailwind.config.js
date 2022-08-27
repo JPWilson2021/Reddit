@@ -1,11 +1,11 @@
 module.exports = {
-  purge: ['./src/*{.js}', './public/index.html'],
-  darkMode: false, // or 'media' or 'class'
+  purge: ['./src/*.js', './public/index.html'],
+  darkMode: 'media', // or 'media' or 'class'
   theme: {
     extend: {
       colors:{
         reddit_dark:{
-          DEFAULT: '#030303',
+          DEFAULT: '#171717',
         },
       },
     },
