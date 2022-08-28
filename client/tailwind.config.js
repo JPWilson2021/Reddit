@@ -8,6 +8,9 @@ module.exports = {
           DEFAULT: '#171717',
           brighter: '#272728',
         },
+        reddit_border:{
+          DEFAULT: '#343536',
+        }
       },
     },
   },
