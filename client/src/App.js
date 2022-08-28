@@ -1,19 +1,20 @@
 import './style.css';
-import Logo from './clipart-reddit.png';
-import Avatar from './Snoo.png';
-import Banner from './RedditBanner.png';
-import {MagnifyingGlassIcon } from '@heroicons/react/24/solid';
-import {BellIcon, PlusIcon} from "@heroicons/react/24/outline";
-import {ChatBubbleOvalLeftEllipsisIcon, ChevronDownIcon} from "@heroicons/react/20/solid";
 import Header from "./Header";
+import Logo from "./RLogo.png";
+
+
 
 function App() {
   return (
     <div>
         <Header/>
-        <section className="subheader">
-            <img src={Banner} alt="" />
-        </section>
+        <div className="h-20 bg-cover" style={{backgroundImage:'url("https://preview.redd.it/xw6wqhhjubh31.jpg?width=2400&format=pjpg&auto=webp&s=32690f33b69e599ed11ea3e7c0e6286c0770245e")'}}>
+        </div>
+        <div>
+            <div className="h-16 w-16">
+                <img src={Logo}></img>
+            </div>
+        </div>
     </div>
   );
 }
