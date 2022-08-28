@@ -5,8 +5,9 @@ module.exports = {
     extend: {
       colors:{
         reddit_dark:{
-          DEFAULT: '#171717',
-          brighter: '#272728',
+          DEFAULT: '#030303',
+          brighter: '#1a1a1a',
+          brightest: '#272728',
         },
         reddit_border:{
           DEFAULT: '#343536',
