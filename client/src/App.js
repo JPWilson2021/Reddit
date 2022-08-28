@@ -1,6 +1,6 @@
 import './style.css';
-import Logo from './clipart-reddit-231846.png';
-import {searchIcon} from '@heroicons/react/solid';
+import Logo from './clipart-reddit.png';
+import {MagnifyingGlassIcon } from '@heroicons/react/24/solid';
 
 function App() {
   return (
@@ -9,8 +9,8 @@ function App() {
             <div className="mx-4">
                 <img src={Logo} alt="" className="w-8 h-8"/>
             </div>
-            <form action="">\
-                <searchIcon/>
+            <form action="" className="bg-gray-800 p-1 flex">
+                <MagnifyingGlassIcon className="text-gray-300 h-7 w-7" />
                 <input type="text" className="bg-gray-800 h-8"/>
             </form>
         </header>
