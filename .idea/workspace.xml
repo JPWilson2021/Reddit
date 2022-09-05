@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b316246a-08f0-4dfb-b529-e3a4aae40b98" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/RLogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/RLogo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/Header.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,13 +23,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Joy Wilson/Reddit",
-    "nodejs_package_manager_path": "yarn",
-    "settings.editor.selected.configurable": "configurable.group.appearance",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2022.2.1\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external"
+    "nodejs_package_manager_path": "yarn"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -41,7 +35,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661121022084</updated>
-      <workItem from="1661617426838" duration="24322000" />
+      <workItem from="1661617426838" duration="31516000" />
+      <workItem from="1662316484429" duration="2104000" />
     </task>
     <servers />
   </component>
