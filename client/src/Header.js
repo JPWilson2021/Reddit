@@ -24,8 +24,8 @@ function Header(){
                 {/*<button className="px-2 py-1">*/}
                 {/*    <PlusIcon className="text-white w-6 h-6 m-1 mx-2"/>*/}
                 {/*</button>*/}
-               <Button>Log In</Button>
-               <Button>Sign Up</Button>
+               <Button className="mx-2">Log In</Button>
+               <Button className="mx-2">Sign Up</Button>
 
 
 
